@@ -54,7 +54,6 @@ setup(name='mem_edit',
           'mem_edit': []
       },
       install_requires=[
-            'typing',
       ],
       extras_require={
       },
